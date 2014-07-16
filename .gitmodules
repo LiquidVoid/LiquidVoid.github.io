@@ -1,0 +1,3 @@
+[submodule "NBT_Helper"]
+	path = NBT_Helper
+	url = https://github.com/LiquidVoid/NBT_Helper
